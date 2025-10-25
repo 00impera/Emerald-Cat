@@ -18,9 +18,10 @@ EMERALD EYES is inspired by the gaze of a black cat with emerald eyes—symboliz
 - Lore tags like “Watcher of the Chain” and “Green Glint Protocol”
 - Wallet-compatible metadata blocks for cross-chain deployment
 
-## 🖼️ Visual Identity
-
+## 🖼️ Visual Identity #
 ![EMERALD EYES Banner](https://raw.githubusercontent.com/00impera/Emerald-Cat/Telegram8/readme-assets/emerald-eyes-banner.png)
+
+
 
 
 ## 📦 Repository Contents
