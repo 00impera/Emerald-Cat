@@ -1,4 +1,6 @@
 # 🐾 EMERALD EYES (BNB) — The Watcher Token
+> 🛡️ Verified BEP-20 Contract: `0x584c81F6C1015BB1D6C56cb76fC3766B80AA4cA3`  
+> [View on BscScan](https://bscscan.com/address/0x584c81F6C1015BB1D6C56cb76fC3766B80AA4cA3)
 
 Welcome to the official repository for **Emerald Cat Cripto**, home of the EMERALD EYES (BNB) token—a mythic-grade BEP-20 asset forged on the BNB Smart Chain. This project blends modular metadata, visual rarity overlays, and lore-driven token design to create a collectible experience unlike any other.
 
