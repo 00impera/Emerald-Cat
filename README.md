@@ -21,7 +21,7 @@ EMERALD EYES is inspired by the gaze of a black cat with emerald eyes—symboliz
 ## 🖼️ Visual Identity
 
 
-![Project Banner](https://raw.githubusercontent.com/00impera/Emerald-Cat/main/readme-assets/emerald-eyes-banner.png)
+https://raw.githubusercontent.com/00impera/Emerald-Cat/Telegram8/readme-assets/emerald-eyes-banner.png
 
 ## 📦 Repository Contents
 
