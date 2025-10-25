@@ -19,9 +19,7 @@ EMERALD EYES is inspired by the gaze of a black cat with emerald eyes—symboliz
 - Wallet-compatible metadata blocks for cross-chain deployment
 
 ## 🖼️ Visual Identity
-
-
-https://raw.githubusercontent.com/00impera/Emerald-Cat/Telegram8/readme-assets/emerald-eyes-banner.png
+![Black cat with glowing emerald eyes — EMERALD EYES (BNB) banner](https://raw.githubusercontent.com/00impera/Emerald-Cat/main/readme-assets/emerald-eyes-banner.png)
 
 ## 📦 Repository Contents
 
