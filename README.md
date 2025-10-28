@@ -46,3 +46,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Let me know if you'd like to scaffold the `/docs/` folder next with lore expansions, onboarding guides, or gallery overlays. We can modularize everything for seamless deployment.
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?logo=telegram)](https://t.me/EmeraldEye_bot)
